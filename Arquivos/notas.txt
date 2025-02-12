@@ -1,0 +1,25 @@
+
+
+Cpython -> Intepretador do python / transforma código em binário pro pc entender
+
+Ambiente virtual -> cópia do python do sistema
+ -> python -m venv nomedoambiente
+ -> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+ -> venv\Scripts\Activate
+
+
+
+nome = input('Digite o seu nome: ')
+
+print(f'Olá {nome}, seja muito bem vindo')
+
+
+type(var) -> indica o tipo da variável
+
+* - multiplicação
+** - exponenciação de raiz quadrada
+// - divisão por inteiro (ignora as casas decimais)
+%-> resto da divisao
+
+
+
