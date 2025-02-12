@@ -22,4 +22,5 @@ type(var) -> indica o tipo da variável
 %-> resto da divisao
 
 
-
+while true:
+    print('Infinito')
