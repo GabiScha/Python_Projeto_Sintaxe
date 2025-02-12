@@ -24,3 +24,14 @@ type(var) -> indica o tipo da variável
 
 while true:
     print('Infinito')
+
+
+DICIONARIO
+name = {key: value,}
+pessoa['cpf'] = '123131231'   //Adiciona um novo
+
+variavel.get('chave', 'caso não exista sai isso')
+
+variavel.values()
+variavel.keys()
+
